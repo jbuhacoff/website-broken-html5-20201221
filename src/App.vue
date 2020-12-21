@@ -10,3 +10,8 @@ query {
   }
 }
 </static-query>
+<script>
+export default {
+    name: 'App',
+};
+</script>

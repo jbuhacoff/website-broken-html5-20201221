@@ -19,6 +19,11 @@
     </v-footer>
     </div>
 </template>
+<script>
+export default {
+    name: 'Footer',
+};
+</script>
 <style lang="css" scoped>
  /* "grey darken-4" is #212121 */
 .text-none {
