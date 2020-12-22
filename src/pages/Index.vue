@@ -10,9 +10,3 @@
     </v-row>
   </Layout>
 </template>
-
-<script>
-export default {
-    name: 'Index',
-};
-</script>
