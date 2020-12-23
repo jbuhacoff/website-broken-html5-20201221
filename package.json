@@ -19,7 +19,7 @@
     "@gridsome/source-filesystem": "^0.6.2",
     "@gridsome/transformer-remark": "^0.6.3",
     "axios": "^0.19.2",
-    "gridsome": "^0.7.23",
+    "gridsome": "0.7.22",
     "regenerator-runtime": "^0.13.7",
     "roboto-fontface": "^0.10.0",
     "vue": "^2.6.12",
